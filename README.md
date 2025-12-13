@@ -18,5 +18,3 @@ This project performs an **Exploratory Data Analysis (EDA)** on customer marketi
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open the `.ipynb` file in Jupyter Notebook or Google Colab.
 
-## 🙏 Acknowledgments
-Special thanks to **[Instructor Name]** from **[Company Name]** for the excellent training and mentorship provided during the course where I developed this project.
